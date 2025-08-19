@@ -1,2 +1,2 @@
 # Codealpha_Calculator
-internship project
+Internship project
